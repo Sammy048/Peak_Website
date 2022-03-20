@@ -4,4 +4,4 @@ This is a peak website build using HTML, CSS and Javascript.
 
 ## WEBSITE CONTENT
 
-The website is made up of three sections: Home, About and Services. It's a simple CRUD website. 
+The website is made up of three sections: Home, About and Services. It's a simple CRUD website that allows user perform simple create, Read, Update and Delete records.
